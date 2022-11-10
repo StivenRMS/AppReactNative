@@ -1,0 +1,1 @@
+export const API_URL = "https://www.lmraplications.com/1ecapp/apirestFulecapp19/server_apiV3/";
